@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269166981970",
+    "project_id": "unitomo-e5d68",
+    "storage_bucket": "unitomo-e5d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269166981970:android:b24c8a9d57f5942b59408b",
+        "android_client_info": {
+          "package_name": "com.example.app_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269166981970-aqubn478edl4gnlijkli58sr32ag1tjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUUZauN0kNTPiar7TROBkEo6Tm_Pbqco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269166981970-aqubn478edl4gnlijkli58sr32ag1tjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
